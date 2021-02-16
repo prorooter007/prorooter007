@@ -6,7 +6,3 @@
 <a href="https://in.linkedin.com/in/shreyash-wasnik-4459b9152">
   <img align="left" alt="Shreyash's LinkdeIN" width="20px" src="https://image.flaticon.com/icons/svg/2111/2111465.svg" />
 </a>
-<br/>
-<br/>
-
-I'm an Android developer, Linux kernel fanatic and wannabe Rustacean
