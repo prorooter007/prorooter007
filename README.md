@@ -1,10 +1,10 @@
 ## Hi, I'm [Shreyash](https://prorooter007.github.io) 👋
 
 <a href="https://twitter.com/prorooter007">
-  <img align="left" alt="prorooter007 | Twitter" width="20px" src="https://image.flaticon.com/icons/svg/2111/2111703.svg" /> 
+  <img align="left" alt="prorooter007 | Twitter" width="20px" src="https://cdn-icons-png.flaticon.com/512/733/733579.png" /> 
 </a>
 <a href="https://in.linkedin.com/in/shreyash-wasnik-4459b9152">
-  <img align="left" alt="Shreyash's LinkdeIN" width="20px" src="https://image.flaticon.com/icons/svg/2111/2111465.svg" /> 
+  <img align="left" alt="Shreyash's LinkdeIN" width="20px" src="https://cdn-icons-png.flaticon.com/512/2111/2111499.png" /> 
 </a>
 </br>
 </br>
